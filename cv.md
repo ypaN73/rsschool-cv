@@ -63,13 +63,6 @@ Graduation Year: 2025
 
 ---
 
-## Projects
-
-**This CV** — first project in Markdown format  
-_(Additional frontend projects will be added as they are completed)_
-
----
-
 ## English Language
 
 Basic level (A2–B1). Currently learning and improving independently.
