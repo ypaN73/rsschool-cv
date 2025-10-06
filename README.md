@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ypan73.github.io/rsschool-cv/
